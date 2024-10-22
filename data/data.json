@@ -1,0 +1,7 @@
+{
+  "url": "https://api.github.com/orgs/ORG/actions/runners?per_page=100",
+  "cursor":
+    {
+      "auth_token": "<redacted>"
+    }
+}
